@@ -40,6 +40,7 @@ int main(int argc, char const *argv[])
     std::cout << "Final floor number = " << floor << std::endl;
     std::cout << "First basement char index = " << finalCharPos << std::endl;
 
+    
     Input.close();
     std::cout << "\n\n";
     system("pause");
